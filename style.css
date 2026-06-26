@@ -152,6 +152,9 @@ html,body{overflow-x:hidden}
 .sm-dress-code .sm-text{
   max-width:760px;
 }
+.sm-wishes__content-slide{
+  max-width:620px;
+}
 .sm-contact .sm-footer__title{
   margin-top:45px;
   margin-right:0;
